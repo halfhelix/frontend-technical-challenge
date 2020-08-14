@@ -6,8 +6,8 @@ Welcome to the Half Helix front-end technical challenge!
 
 In order to spin up a development environment, follow these simple steps:
 
-1. `Fork this project`
-1. `yarn`.
+1. `Clone this project (don't fork)`
+1. `yarn`
 1. `yarn dev`
 
 ### Deploying
@@ -18,7 +18,7 @@ You can deploy the static site via any method that you choose. There are a few d
 
 When you are ready to show off your work to Half Helix, please provide the following:
 
-1. A link to the repository to show the completed code.
+1. A link to the repository to show the completed code (push the cloned repo up to your personal Github).
 1. A public staging link that shows the rendered page.
 1. An outline of how long you spent on the challenge.
 
